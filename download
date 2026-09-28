@@ -1,0 +1,12 @@
+# Geheimen en lokale instellingen
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Lokale werkbestanden
+node_modules/
+work/
+*.log
+.DS_Store
+Thumbs.db
